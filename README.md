@@ -1,6 +1,7 @@
-Pour ma toute première experience en jeu, j'ai voulu faire endless runner style game en partant de zero,
+Pour ma toute première experience en jeu, j'ai voulu faire un endless runner style game en partant de zero,
 ici ma courbe de progresison et d'apprentissage sur le site de kaplay.js, la bibliothèque (library) JavaScript que j'ai utilisé
 👉👉 https://kaplayjs.com/docs/guides/ .
+
 
 
 // 1er Jour : 
@@ -12,6 +13,7 @@ ici ma courbe de progresison et d'apprentissage sur le site de kaplay.js, la bib
 ** GRAVITY
 
 
+
 // 2eme Jour : 
 
 ** COLLISIONS
@@ -19,6 +21,7 @@ ici ma courbe de progresison et d'apprentissage sur le site de kaplay.js, la bib
 ** SCENES 
 
 ** SCORE
+
 
 
 // 3eme Jour : 
