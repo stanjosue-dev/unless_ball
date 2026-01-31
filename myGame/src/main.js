@@ -297,7 +297,7 @@ onKeyDown("down", () => {
 	    });
 
 		bean.onCollide("enemy2", () => {
-		biomes[currentBiome].val() ;
+		biomes[currentBiome].val(bean) ;
 	    });
 	
         loop(1.2, () => {
@@ -341,7 +341,7 @@ onKeyDown("down", () => {
 	);
 
 	debug.log("EVITE LES EXTRA-TERRESTRE ET LES ASTEROIDES !")
-	debug.log("BIENVENUE DANS L'ESCPACE") ;
+	debug.log("BIENVENUE DANS L'ESPACE") ;
 
 	} else if (SCORE > 330 && currentBiome === "space") {
 
