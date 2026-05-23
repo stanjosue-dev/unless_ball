@@ -1,6 +1,7 @@
 Pour ma toute première experience en jeu, j'ai voulu faire un endless runner style game en partant de zero,
 ici ma courbe de progresison et d'apprentissage sur le site de kaplay.js, la bibliothèque (library) JavaScript que j'ai utilisé
-👉👉 https://kaplayjs.com/docs/guides/ .
+👉 https://github.com/kaplayjs/kaplay
+👉 https://kaplayjs.com/docs/guides/.
 
 
 
@@ -35,9 +36,7 @@ ici ma courbe de progresison et d'apprentissage sur le site de kaplay.js, la bib
 ** DERNIERES RETOUCHES SUR LE JEU FIN.
 
 
-
-_________________________
-
+__________________________________________
 
 
 png🖼️ & sound🎧 : https://opengameart.org/.
